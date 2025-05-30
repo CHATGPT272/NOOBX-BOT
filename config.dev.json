@@ -14,27 +14,15 @@
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "nickNameBot": "𝐍𝐎𝐎𝐁𝐗 𝐁𝐎𝐓__/ :) :*",
-  "prefix": "‌★",
+  "prefix": "‌/",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [
-    "61569568560258",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
+  "adminBot": ["61569568560258"],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": [
-      "61569568560258",
-      "",
-      ""
-    ],
+    "whiteListIds": ["61569568560258"],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
   "whiteListModeThread": {
